@@ -30,5 +30,5 @@ This project is a simple networked chat application that allows multiple clients
 
 2. **Clone the repository** (if hosted on GitHub or similar):
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <[repository-url](https://github.com/chamikamunithunga/Networked-Chat-Application-with-Encryption)>
+   cd <cc>
